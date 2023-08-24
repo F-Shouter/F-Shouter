@@ -1,2 +1,1 @@
-
-![blue-green](https://github-readme-stats.vercel.app/api?username=F-Shouter&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=blue-green)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F-Shouter&layout=donut-vertical)](https://github.com/F-Shouter/github-readme-stats)
